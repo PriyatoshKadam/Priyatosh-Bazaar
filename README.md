@@ -20,6 +20,11 @@ Install dependencies
 ```bash
   npm install
 ```
+## PREVIEW
+![Screenshot (825)](https://github.com/PriyatoshKadam/Priyatosh-Bazaar/assets/85998054/65562f47-c149-42c8-b1e5-4f1b760cee0d)
+
+
+
 
 Start the server
 
