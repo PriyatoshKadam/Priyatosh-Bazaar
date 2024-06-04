@@ -6,7 +6,7 @@ Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
 ```bash
-  git clone https://github.com/prakashsakari/machine-code-flipkart-app.git
+  git clone https://github.com/PriyatoshKadam/Priyatosh-Bazaar.git
 ```
 
 Go to the project directory
